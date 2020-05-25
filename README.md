@@ -13,4 +13,5 @@ https://hal.archives-ouvertes.fr/hal-01704943v2/document
 Porting the algorithms described in Mr. Osen Paper from C language to php.
 + Adding haversine (found on https://stackoverflow.com/questions/365826/calculate-distance-between-2-gps-coordinates)
 + and Vincenty's algorithm (https://gist.github.com/lkacenja/41b5bd876d61b806433f)
+
 ... for calculation of baseline distance between to GNSS marks.
